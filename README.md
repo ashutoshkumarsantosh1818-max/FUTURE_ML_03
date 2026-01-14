@@ -3,7 +3,7 @@
 Narayan AI is an intelligent customer support solution developed for Internship Task 3. The bot is designed to understand user queries and provide automated responses using Natural Language Processing (NLP) techniques.
 
 ## 🚀 Live Demo
-**Link:** [PASTE_YOUR_STREAMLIT_LINK_HERE]
+**Link:** [https://futureml03-8sxnchdgk6m9pqs9zyobdk.streamlit.app/]
 
 ## ✨ Key Features
 * **Branding:** The application is titled **Narayan AI** with a browser page title set to **Customer Support AI**.
